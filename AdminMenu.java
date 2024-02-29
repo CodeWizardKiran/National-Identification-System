@@ -9,9 +9,9 @@ import java.util.UUID;
 
 public class AdminMenu extends JFrame {
 
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/nis";
-    private static final String DB_USERNAME = "root";
-    private static final String DB_PASSWORD = "kiran2003";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/Your_database_name";
+    private static final String DB_USERNAME = "UserName";
+    private static final String DB_PASSWORD = "password";
 
     public AdminMenu() {
         setTitle("Admin Menu");
